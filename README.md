@@ -1,4 +1,4 @@
-### Olá! I'm Bianca Alencar 😄
+### Hey! I'm Bianca Alencar 😄
 
 
 - 🔭 I’m currently working on Operador de Telemarketing 
