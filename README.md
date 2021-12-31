@@ -1,5 +1,5 @@
 ### <h1>Hey! I'm Bianca Alencar 😄<h1/>
-##
+
 
 - 📞 Estou trabalhando no momento como Operador de Telemarketing 
 - 👩‍🎓 Estudante de Ciência da computação, atualmente estou cursando o 7° semestre
