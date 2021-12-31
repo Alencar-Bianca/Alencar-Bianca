@@ -1,4 +1,4 @@
-### Hey! I'm Bianca Alencar 😄
+### <h1>Hey! I'm Bianca Alencar 😄<h1/>
 ##
 
 - 📞 Estou trabalhando no momento como Operador de Telemarketing 
@@ -28,10 +28,10 @@
   
    
 <div> 
-  <a href="https://www.instagram.com/mrs_alencar/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:bianca.alencqr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/bianca-a-246b36a8" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://twitter.com/alencarbianca1" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+  <a target="_blank" href="https://www.instagram.com/mrs_alencar/"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a  target="_blank" href = "mailto:bianca.alencqr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a  target="_blank" href="https://www.linkedin.com/in/bianca-a-246b36a8" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a  target="_blank" href="https://twitter.com/alencarbianca1" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   
  
 
