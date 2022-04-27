@@ -3,7 +3,7 @@
 
 - 📞 Estou trabalhando no momento como Operador de Telemarketing 
 - 👩‍🎓 Estudante de Ciência da computação, atualmente estou cursando o 7° semestre
-- 👩‍💻 Estou aprendendo <strong>HTML, CSS, JAVASCRIPT,PHP and ANGULAR</strong>
+- 👩‍💻 Estou aprendendo <strong>HTML, CSS, JAVASCRIPT,PHP,REACT and ANGULAR</strong>
 - 📫 Contato: bianca.re4@hotmail.com
 
 <div align="center">
