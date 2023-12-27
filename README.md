@@ -3,8 +3,8 @@
 
 - 📞 Sou Desenvolvedora Fullstack
 - 👩‍🎓 Formada em Ciência da Computação
-- 👩‍💻 Minhas experiências: <strong>HTML, CSS, JAVASCRIPT,PHP, Mysql, NestJS and ANGULAR</strong>
-- 📫 Contato: (https://www.linkedin.com/in/alencar-bianca/)
+- 👩‍💻 Minhas experiências: <strong>HTML, CSS, JAVASCRIPT, PHP, Mysql, NestJS and ANGULAR</strong>
+
 
 <div align="center">
   <a href="https://github.com/Alencar-Bianca">
