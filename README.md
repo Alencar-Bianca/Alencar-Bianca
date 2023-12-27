@@ -1,10 +1,10 @@
 ### <h1>Hey! I'm Bianca Alencar 😄<h1/>
 
 
-- 📞 Estou trabalhando no momento como Operador de Telemarketing 
-- 👩‍🎓 Estudante de Ciência da computação, atualmente estou cursando o 7° semestre
-- 👩‍💻 Estou aprendendo <strong>HTML, CSS, JAVASCRIPT,PHP,REACT and ANGULAR</strong>
-- 📫 Contato: bianca.re4@hotmail.com
+- 📞 Sou Desenvolvedora Fullstack
+- 👩‍🎓 Formada em Ciência da Computação
+- 👩‍💻 Minhas experiências: <strong>HTML, CSS, JAVASCRIPT,PHP and ANGULAR</strong>
+- 📫 Contato: (https://www.linkedin.com/in/alencar-bianca/)
 
 <div align="center">
   <a href="https://github.com/Alencar-Bianca">
